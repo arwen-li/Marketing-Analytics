@@ -1,1 +1,5 @@
+import pandas as pd
+import numpy as np
 
+ab_testing = pd.read_csv('AB_test_data.csv')
+ab_testing
